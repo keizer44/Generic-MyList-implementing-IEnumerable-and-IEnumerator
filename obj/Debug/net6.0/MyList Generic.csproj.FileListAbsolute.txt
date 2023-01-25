@@ -1,0 +1,15 @@
+C:\Users\P\Desktop\C#\MyList Generic\bin\Debug\net6.0\MyList Generic.exe
+C:\Users\P\Desktop\C#\MyList Generic\bin\Debug\net6.0\MyList Generic.deps.json
+C:\Users\P\Desktop\C#\MyList Generic\bin\Debug\net6.0\MyList Generic.runtimeconfig.json
+C:\Users\P\Desktop\C#\MyList Generic\bin\Debug\net6.0\MyList Generic.dll
+C:\Users\P\Desktop\C#\MyList Generic\bin\Debug\net6.0\MyList Generic.pdb
+C:\Users\P\Desktop\C#\MyList Generic\obj\Debug\net6.0\MyList Generic.csproj.AssemblyReference.cache
+C:\Users\P\Desktop\C#\MyList Generic\obj\Debug\net6.0\MyList Generic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\P\Desktop\C#\MyList Generic\obj\Debug\net6.0\MyList Generic.AssemblyInfoInputs.cache
+C:\Users\P\Desktop\C#\MyList Generic\obj\Debug\net6.0\MyList Generic.AssemblyInfo.cs
+C:\Users\P\Desktop\C#\MyList Generic\obj\Debug\net6.0\MyList Generic.csproj.CoreCompileInputs.cache
+C:\Users\P\Desktop\C#\MyList Generic\obj\Debug\net6.0\MyList Generic.dll
+C:\Users\P\Desktop\C#\MyList Generic\obj\Debug\net6.0\refint\MyList Generic.dll
+C:\Users\P\Desktop\C#\MyList Generic\obj\Debug\net6.0\MyList Generic.pdb
+C:\Users\P\Desktop\C#\MyList Generic\obj\Debug\net6.0\MyList Generic.genruntimeconfig.cache
+C:\Users\P\Desktop\C#\MyList Generic\obj\Debug\net6.0\ref\MyList Generic.dll
